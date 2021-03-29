@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 Hola!
-Soy diseñadora gráfica y desarrolladora web. Trabaje muchos años con gente de sistemas, mi curiosidad y mis compañeros que me explicaban cuando yo preguntaba cosas de programación, hicieron que me dedique al frontend. Desde yace unos años estoy incursionando en Experiencia de Usuario (UX-UI) que me parece super interesante, JS; React JS y Firebase 
+Soy diseñadora gráfica y desarrolladora web. 
+Trabaje muchos años con gente de sistemas, mi curiosidad hizo que descubra mi rumbo, me dedique al frontend. 
+Desde hace unos años estoy incursionando en Experiencia de Usuario (UX-UI), JS, ReactJS y Firebase. 
 Sigo y sigo estudiando, aprendiendo nuevas tecnologias, poniendome al día constantemente. 
 Mi mail: marcelaueno@gmail.com
 LinkedIn: https://www.linkedin.com/in/marcela-ueno-281b8614/

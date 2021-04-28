@@ -1,4 +1,4 @@
-<h2 spam>Hola!</h2>
+<h2 style="color: indianred;">❤ Hola!</h2>
 Soy diseñadora gráfica y desarrolladora web. <br>
 Trabaje muchos años con gente de sistemas, mi curiosidad hizo que descubra mi rumbo, me dedique al frontend. 
 Desde hace unos años estoy incursionando en Experiencia de Usuario (UX-UI), JS, ReactJS y Firebase. 
